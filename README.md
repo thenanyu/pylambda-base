@@ -1,6 +1,6 @@
 # pylambda-base
 
-Default settings for AWS Lambda tooling. Uses https://github.com/nficano/python-lambda
+Project boilerplate for AWS Lambda tooling. Uses https://github.com/nficano/python-lambda
 
 ### Install Dependencies on OSX
 Here's a sane OSX configuration if you are new to Python dev and use a Mac.
